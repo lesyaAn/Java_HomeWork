@@ -1,0 +1,11 @@
+{
+  "error": null,
+  "data": {
+    "id": "ec7d0d32-1c75-4bb0-835b-426970765b21",
+    "name": "QA coding challenge workflow",
+    "description": "Workflow description",
+    "createdAt": "2020-01-30T19:06:18.294Z",
+    "updatedAt": "2020-01-30T19:06:18.294Z",
+    "totalProcessingTime": 0
+  }
+}
